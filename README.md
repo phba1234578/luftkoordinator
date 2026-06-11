@@ -1,4 +1,3 @@
-# luftkoordinator
 <!DOCTYPE html>
 <html lang="no">
 <head>
